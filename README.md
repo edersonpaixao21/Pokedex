@@ -30,7 +30,7 @@ Para a utilização é preciso clonar o repositório, instalar as depedências e
 
 ```bash
 # Abra o terminal/cmd e em seguida Clone este repositório
-$ git clone https://github.com/edersonpaixao21/GoRestaurant.git
+$ git clone https://github.com/edersonpaixao21/Pokedex.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Pokedex
